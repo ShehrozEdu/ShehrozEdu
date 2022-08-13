@@ -8,9 +8,9 @@
 - 📫 How to reach me **battshehroz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/www.linkedin.in/shehrozbatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.in/shehrozbatt" height="30" width="40" /></a>
-<a href="https://www.github.com/ShehrozEdu"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="max-width: 100%;"></a>
+<p align="center" dir="auto"> <a href="https://www.github.com/ShehrozEdu">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="max-width: 100%;"></a>
+ <a href="https://www.linkedin.com/in/shehrozbatt" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
