@@ -7,7 +7,10 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shehrozedu&label=Profile%20views&color=0e75b6&style=flat" alt="shehrozedu" />
+  <img src="https://komarev.com/ghpvc/?username=shehrozedu&label=Profile%20views&color=0e75b6&style=flat" alt="shehrozedu" /> 
+  <a href="https://wakatime.com/@6ee1a302-54a8-4621-b399-9affcdc22e52">
+    <img src="https://wakatime.com/badge/user/6ee1a302-54a8-4621-b399-9affcdc22e52.svg" alt="wakatime">
+  </a>
 </p>
 
 <p align="left">
@@ -27,7 +30,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;">
   </a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -99,4 +101,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrozedu&" alt="shehrozedu" />
 </p>
-
