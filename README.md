@@ -100,4 +100,4 @@
 </p>
 
 <!-- WakaTime integration -->
-[![wakatime](https://wakatime.com/badge/user/{6ee1a302-54a8-4621-b399-9affcdc22e52}.svg)](https://wakatime.com/@{6ee1a302-54a8-4621-b399-9affcdc22e52})
+[![wakatime](https://wakatime.com/badge/user/6ee1a302-54a8-4621-b399-9affcdc22e52.svg)](https://wakatime.com/@6ee1a302-54a8-4621-b399-9affcdc22e52)
