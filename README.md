@@ -79,6 +79,7 @@
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
   </a>
 </p>
+<img src="https://github.com/shehrozedu/shehrozedu/blob/main/images/stat.svg" alt="Shehroz Batt WakaTime Activity"/>
 
 <h2 dir="auto">
   <a id="user-content--badges" class="anchor" aria-hidden="true" href="#-badges">
