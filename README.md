@@ -1,104 +1,151 @@
 <h1 align="center">Hi 👋, I'm Shehroz Batt</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-<p align="center" margin-left="20">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++++++MERN+Stack+Developer%2C;++++++++++++++++++Hungry+to+level+up+each+day!" alt="Typing SVG" />
+<h3 align="center">🚀 Full-Stack MERN Developer | Clean Code Enthusiast | Lifelong Learner</h3>
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Crafting+Modern+Web+Solutions;Solving+Real+World+Problems+with+Code;Consistently+Leveling+Up+Every+Day">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Crafting+Modern+Web+Solutions;Solving+Real+World+Problems+with+Code;Consistently+Leveling+Up+Every+Day" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shehrozedu&label=Profile+Views&color=brightgreen" alt="Profile Views"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+🔭 Currently building scalable full-stack applications (MERN)
+🌱 Exploring advanced backend architecture, AWS services & microservices
+⚡ Obsessed with clean code, UI polish, automation & testing
+📫 Reach me at: **battshehroz@gmail.com**
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/ShehrozEdu">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shehrozbatt">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+### 🖥️ Frontend
+
+
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shehrozedu&label=Profile%20views&color=0e75b6&style=flat" alt="shehrozedu" /> 
-  <a href="https://wakatime.com/@6ee1a302-54a8-4621-b399-9affcdc22e52">
-    <img src="https://wakatime.com/badge/user/6ee1a302-54a8-4621-b399-9affcdc22e52.svg" alt="wakatime">
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
 </p>
+
+### 🔧 Backend
+
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shehrozedu" alt="shehrozedu" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
 </p>
 
-- 📫 How to reach me **battshehroz@gmail.com**
+### 🗄️ Databases
 
-<h3 align="left">Connect with me:</h3>
-<p align="center" dir="auto">
-  <a href="https://www.github.com/ShehrozEdu">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="max-width: 100%;">
-  </a>
-  <a href="https://www.linkedin.com/in/shehrozbatt" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;">
-  </a>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
-  </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
-  </a>
-</p>
-<img src="https://github.com/shehrozedu/shehrozedu/blob/main/images/stat.svg" alt="Shehroz Batt WakaTime Activity"/>
 
-<h2 dir="auto">
-  <a id="user-content--badges" class="anchor" aria-hidden="true" href="#-badges">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-    </svg>
-  </a>
-  Badges
-</h2>
+### 🧪 Tools & Utilities
 
-<p dir="auto"><b>My GitHub Stats</b></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehrozedu&show_icons=true&locale=en&layout=compact" alt="shehrozedu" />
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </p>
+
+
+### 🚀 Deployment
+
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" />
+</p>
+
+---
+
+
+## 📊 GitHub Stats
+
+<table align="center">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=shehrozedu&show_icons=true&theme=gruvbox&count_private=true" height="165"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehrozedu&layout=compact&theme=gruvbox"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehrozedu&show_icons=true&locale=en" alt="shehrozedu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrozedu&theme=gruvbox"/>
 </p>
 
+---
+
+## 📈 Weekly WakaTime Dev Stats
+<td>
+  <img src="https://wakatime.com/badge/user/6ee1a302-54a8-4621-b399-9affcdc22e52.svg" alt="Wakatime Badge"/>
+</td>
+<!--START_SECTION:waka-->
+<!-- This section will be automatically updated by the WakaTime GitHub Action -->
+<!--END_SECTION:waka-->
+
+---
+
+## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrozedu&" alt="shehrozedu" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shehrozedu&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+## 📂 Featured Projects
+
+<p align="center"><i>Some highlighted repositories from my GitHub portfolio. Each project below reflects real-world problem-solving, clean architecture, and professional-level UI/UX design.</i></p>
+
+[![Apple Music React Clone](https://github-readme-stats.vercel.app/api/pin/?username=ShehrozEdu&repo=Apple-Music-React-Clone)](https://github.com/ShehrozEdu/Apple-Music-React-Clone)
+[![FindYourLawyer Client](https://github-readme-stats.vercel.app/api/pin/?username=ShehrozEdu&repo=FindYourLawyer-client)](https://github.com/ShehrozEdu/FindYourLawyer-client)
+[![Reddit React Clone](https://github-readme-stats.vercel.app/api/pin/?username=ShehrozEdu&repo=Reddit-React-Clone)](https://github.com/ShehrozEdu/Reddit-React-Clone)
+
+> 🛠 *Want to explore more? Browse all my repos [here](https://github.com/ShehrozEdu?tab=repositories).*
+
+---
+
+## 🔍 Curious About Me?
+
+I'm always leveling up!  
+- 👨‍💻 Ask me about scalable app architecture  
+- 🤝 Let’s collaborate on frontend-heavy projects or clean backend APIs  
+- ✍️ Ask for blog content, tools I use, or my dev workflow anytime!
+
+---
+
+**Thank you for visiting!**  
+Let’s connect and build something amazing together! 🔗
