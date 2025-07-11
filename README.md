@@ -15,10 +15,12 @@
 
 ## 🧑‍💻 About Me
 
-🔭 Currently building scalable full-stack applications (MERN) <br>
-🌱 Exploring advanced backend architecture, AWS services & microservices<br>
-⚡ Obsessed with clean code, UI polish, automation & testing<br>
-📫 Reach me at: **battshehroz@gmail.com**<br>
+I’m a passionate **Full-Stack MERN Developer** who loves turning ideas into scalable digital products. My approach blends performance-focused backend systems with pixel-perfect frontend experiences.
+
+💻 Currently working on **scalable full-stack applications** using the **MERN stack**  
+🌐 Exploring **AWS services**, **microservices**, and backend architecture  
+✨ Love for **clean code**, **UI finesse**, and **automation**  
+📬 Reach me at: **battshehroz@gmail.com**
 
 ---
 
@@ -38,53 +40,63 @@
 
 ## 🧰 Tech Stack
 
-### 🖥️ Frontend
+<table>
+  <tr>
+    <td><strong>🖥️ Frontend</strong></td>
+    <td>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
 
+</td>
+  </tr>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-</p>
+  <tr>
+    <td><strong>🔧 Backend</strong></td>
+    <td>
 
-### 🔧 Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
 
+</td>
+  </tr>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-</p>
+  <tr>
+    <td><strong>🗄️ Databases</strong></td>
+    <td>
 
-### 🗄️ Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 
+</td>
+  </tr>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-</p>
+  <tr>
+    <td><strong>🧪 Tools & Utilities</strong></td>
+    <td>
 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 
-### 🧪 Tools & Utilities
+</td>
+  </tr>
 
+  <tr>
+    <td><strong>🚀 Deployment</strong></td>
+    <td>
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-</p>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" />
 
+</td>
+  </tr>
+</table>
 
-### 🚀 Deployment
-
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" />
-</p>
 
 ---
 
@@ -92,18 +104,18 @@
 ## 📊 GitHub Stats
 
 <table align="center">
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=shehrozedu&show_icons=true&theme=gruvbox&count_private=true" height="165"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehrozedu&layout=compact&theme=gruvbox"/>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=shehrozedu&show_icons=true&theme=gruvbox&count_private=true" height="180" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehrozedu&layout=compact&theme=gruvbox" height="180" />
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrozedu&theme=gruvbox"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrozedu&theme=gruvbox" height="200"/>
 </p>
 
 ---
@@ -132,7 +144,6 @@
 
 [![Apple Music React Clone](https://github-readme-stats.vercel.app/api/pin/?username=ShehrozEdu&repo=Apple-Music-React-Clone)](https://github.com/ShehrozEdu/Apple-Music-React-Clone)
 [![FindYourLawyer Client](https://github-readme-stats.vercel.app/api/pin/?username=ShehrozEdu&repo=FindYourLawyer-client)](https://github.com/ShehrozEdu/FindYourLawyer-client)
-[![Reddit React Clone](https://github-readme-stats.vercel.app/api/pin/?username=ShehrozEdu&repo=Reddit-React-Clone)](https://github.com/ShehrozEdu/Reddit-React-Clone)
 
 > 🛠 *Want to explore more? Browse all my repos [here](https://github.com/ShehrozEdu?tab=repositories).*
 
