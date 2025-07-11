@@ -2,7 +2,7 @@ name: 🕒 WakaTime Inline Stats
 
 on:
   schedule:
-    - cron: "20 4 * * *"  # Runs daily at 9:50 AM IST (which is 4:20 AM UTC)
+    - cron: "15 5 * * *"  # Runs daily at 10:45 AM IST
   workflow_dispatch:
 
 jobs:
@@ -11,9 +11,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@v0.2.8
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TOTAL: true
           SHOW_TITLE: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_TIMEZONE: true
+          SHOW_EDITORS: true
+          SHOW_LANGUAGES: true
           COMMIT_MESSAGE: "📈 update waka stats"
