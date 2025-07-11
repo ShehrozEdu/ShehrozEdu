@@ -2,7 +2,7 @@ name: 🕒 WakaTime Inline Stats
 
 on:
   schedule:
-    - cron: "0 12 * * *"  # daily 12PM IST
+    - cron: "20 4 * * *"  # Runs daily at 9:50 AM IST (which is 4:20 AM UTC)
   workflow_dispatch:
 
 jobs:
