@@ -15,10 +15,10 @@
 
 ## 🧑‍💻 About Me
 
-🔭 Currently building scalable full-stack applications (MERN)
-🌱 Exploring advanced backend architecture, AWS services & microservices
-⚡ Obsessed with clean code, UI polish, automation & testing
-📫 Reach me at: **battshehroz@gmail.com**
+🔭 Currently building scalable full-stack applications (MERN) <br>
+🌱 Exploring advanced backend architecture, AWS services & microservices<br>
+⚡ Obsessed with clean code, UI polish, automation & testing<br>
+📫 Reach me at: **battshehroz@gmail.com**<br>
 
 ---
 
